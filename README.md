@@ -2,16 +2,13 @@
 
 ## Per chi progetta l'esercizio 
 
-Dopo aver creato un nuovo repository usando questo template
-
-- in `pom.xml` sostituire a `exercise-template` il nome dell'esercizio
+Dopo aver creato un nuovo repository usando questo template, in `pom.xml` sostituire a `exercise-template` il nome dell'esercizio
 
 ```yaml
 <artifactId>exercise-template</artifactId>
 <name>exercise-template</name>
 ```
-
-- si può rimuovere questa sezione da `README.md`
+<!-- TODO: rimuovere questa sezione dal README -->
 
 ## Svolgimento 
 
