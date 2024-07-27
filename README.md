@@ -17,7 +17,7 @@ Dopo aver creato un nuovo repository usando questo template
 
 Suggeriamo di scaricare [git](https://git-scm.com/) per comodità. Per scaricare in locale l'esercizio seguire le istruzioni nell'articolo [Cloning a repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) (se non potete scaricare `git` si può usare `Download ZIP`)
 
-Per importare il progetto scaricato su Eclipse basta andare su File > Import... > Maven projects
+Per importare il progetto scaricato su Eclipse basta andare su **File** > **Import...** > **Maven projects**
 
 ## Esecuzione
 
@@ -31,7 +31,7 @@ mvn exec:java # Per eseguire App::main
 mvn test # Per eseguire i test
 ```
 
-Se usate Eclipse Tasto destro sul progetto > Run As > scegliete se eseguire il main o i test 
+Se usate Eclipse **Tasto destro** sul progetto > **Run As** > scegliete se eseguire il main o i test 
 
 ## Obiettivi 
 
